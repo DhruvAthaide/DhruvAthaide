@@ -1,5 +1,5 @@
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
-<h3>Hi! 👋<br>I'm ShadowMST<br>a Game Developer, Coder & Gamer!</h3>
+<h3>Hi! 👋<br>I'm Dhruv Athaide<br>a Web Developer, Coder & Gamer!</h3>
 
 ### Connect with me:
 
