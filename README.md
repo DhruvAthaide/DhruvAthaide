@@ -24,6 +24,10 @@
 &nbsp;&nbsp;
 
 
+### ✍️ Developer's Quotes
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+
 <h3  align="left">Languages and Tools:</h3>
 
 <p  align="left"> 
