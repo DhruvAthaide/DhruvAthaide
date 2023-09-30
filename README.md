@@ -49,16 +49,6 @@
 </p>
 
 
-<h3  align="left">IDE's/Editors:</h3>
-<p align="left"> 
-  [![website](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-&nbsp;&nbsp;
-  [![website](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-&nbsp;&nbsp;
-  [![website](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-&nbsp;&nbsp;
-
-
 <h3  align="left">My Stats:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvathaide&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvathaide" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvathaide&" alt="dhruvathaide" /></p>
