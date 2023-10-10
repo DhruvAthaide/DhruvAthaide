@@ -1,5 +1,5 @@
 <h3 align="center">Hi! 👋<br>I'm Dhruv Athaide</h3>
-<h3 align="center">A passionate Web and App Developer from India!</h3>
+<h3 align="center">I'm a Web and App Developer from India!</h3>
 <br>
 
 - 🌱 I’m currently learning **React, Firebase, MongoDB and Amazon AWS**
