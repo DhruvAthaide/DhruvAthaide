@@ -1,32 +1,34 @@
-<h3 align="center">Hi! 👋<br>I'm Dhruv Athaide</h3>
-<h3 align="center">I'm a Web and App Developer from India!</h3>
-<br>
+<h3 align="center">Welcome to my GitHub Profile! <br>I'm Dhruv Athaide 👋</h3>
 
-- 🌱 I’m currently learning **React, Firebase, MongoDB and Amazon AWS**
-
-- 👨‍💻 All of my projects are available at [https://dhruvathaide.vercel.app/](https://dhruvathaide.vercel.app/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Apple+system&pause=1000&color=F0F3F6&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Web+and+App+Developer!" alt="Typing SVG">
+</p>
 
 <br>
+
+- 🌱 I’m currently learning **React, Firebase, MongoDB, Kotlin and Amazon AWS**
+
+- 👨‍💻 All of my projects are available at on my Portfolio Website:  [https://dhruvathaide.vercel.app/](https://dhruvathaide.vercel.app/)
+<br>
+
 
 ### Connect with me:
 
+[![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhruvathaide/)
+&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhruv_athaide/?hl=en)
+&nbsp;&nbsp;
 [![website](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-lcp7FoBrTefpw2q9qpQrg)
 &nbsp;&nbsp;
 [![website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dhruv_Athaide)
 &nbsp;&nbsp;
-[![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhruv_athaide/?hl=en)
-&nbsp;&nbsp;
 [![website](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dhruvathaide)
-&nbsp;&nbsp;
-[![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhruvathaide/)
 &nbsp;&nbsp;
 [![website](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21164766/dhruv-athaide)
 &nbsp;&nbsp;
 
 
-
-
-<h3  align="left">Languages and Tools:</h3>
+### Tech Stack:
 
 <p  align="left"> 
   <a  href="https://www.w3schools.com/c/"  target="_blank"  rel="noopener noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/>  </a>  
@@ -40,8 +42,7 @@
   <a  href="https://cloud.google.com/"  target="_blank"  rel="noopener noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud"  width="40"  height="40"/>  </a></p>
 
 
-
-<h3  align="left">Learning:</h3>
+### Currently Learning:
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
@@ -51,13 +52,19 @@
 </p>
 
 
-<h3  align="left">My Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvathaide&theme=transparent" alt="dhruvathaide" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvathaide&show_icons=true&locale=en&layout=compact&theme=transparent" alt="dhruvathaide" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvathaide&show_icons=true&locale=en&theme=transparent" alt="dhruvathaide" /></p>
-</p>
+### Custom Badges:
+[![Visits Badge](https://badges.pufler.dev/visits/DhruvAthaide/badge-it)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/DhruvAthaide)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/DhruvAthaide)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/DhruvAthaide)](https://badges.pufler.dev)
 
-<h3 align="center">✍️ Developer's Quotes</h3>
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Developer Quote" style="display:block;margin:auto;">
+
+### My Starred Projects
+
+[![Last Stars Display](https://badges.pufler.dev/last-stars/DhruvAthaide?count=6&padding=15&perRow=2)](https://badges.pufler.dev)
+
+### My Github Stats:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvAthaide&theme=transparent" alt="DhruvAthaide" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvAthaide&show_icons=true&locale=en&layout=compact&theme=transparent" alt="DhruvAthaide" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvAthaide&show_icons=true&locale=en&theme=transparent" alt="DhruvAthaide" /></p>
 </p>
