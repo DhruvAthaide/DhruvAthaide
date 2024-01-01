@@ -1,4 +1,4 @@
-![Header](./headerimage.png)
+![Header](./githubheaderimage.png)
 
 <br>
 
@@ -49,8 +49,8 @@
 
 
 ### Custom Badges:
-[![Visits Badge](https://badges.pufler.dev/visits/DhruvAthaide/badge-it)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/DhruvAthaide)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/DhruvAthaide/badge-it)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/DhruvAthaide)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/DhruvAthaide)](https://badges.pufler.dev)
 
