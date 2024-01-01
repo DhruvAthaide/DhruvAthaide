@@ -1,4 +1,8 @@
-![Header](./githubheaderimage.png)
+<h3 align="center">Welcome to my GitHub Profile! <br>I'm Dhruv Athaide 👋</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Apple+system&pause=1000&color=F0F3F6&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Web+and+App+Developer!" alt="Typing SVG">
+</p>
 
 <br>
 
