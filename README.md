@@ -1,3 +1,4 @@
+![Header](https://github.com/DhruvAthaide/DhruvAthaide/blob/228a8ff20e99cd777815c8684a20721bcfff7ac1/githubheaderimage.png)
 <h3 align="center">Welcome to my GitHub Profile! <br>I'm Dhruv Athaide 👋</h3>
 
 <p align="center">
