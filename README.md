@@ -51,12 +51,7 @@
 </div>
 
 ## Github Profile Statistics:
-[![Visits Badge](https://badges.pufler.dev/visits/DhruvAthaide/badge-it)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/DhruvAthaide)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/DhruvAthaide)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/DhruvAthaide)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=dhruvathaide&label=Profile%20views&color=43be15&style=flat" alt="dhruvathaide" />
-
+[![Profile Views](https://u8views.com/api/v1/github/profiles/112797676/views/day-week-month-total-count.svg)](https://u8views.com/github/DhruvAthaide)
 
 ## My Starred Projects
 [![Last Stars Display](https://badges.pufler.dev/last-stars/DhruvAthaide?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
