@@ -1,9 +1,12 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dhruv Athaide
+======================================================================================================================================
 ![Header](https://github.com/DhruvAthaide/DhruvAthaide/blob/f15e699c5446ee12903569565c9a1c9781744e2c/GithubHeader.png)
 
 <br>
 
-- 🌱 I’m currently learning **React.js & Flutter**
-- 👨‍💻 Check out my [Portfolio Website](https://dhruvathaide.vercel.app/)
+* 🌍  I'm based in Mumbai
+* 🖥️  See my [Portfolio](http://dhruvathaide.vercel.app/)
+* 🧠  I'm currently learning React.js & Flutter
 <br>
 
 <!-- Tech Stack -->
@@ -14,9 +17,10 @@
   ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
   ![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin)
   ![React.js](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React)
+  ![Flutter](https://img.shields.io/badge/flutter-000?style=for-the-badge&logo=flutter)
   ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-  ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
+  ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
   ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -27,9 +31,7 @@
   ![Selenium](https://img.shields.io/badge/selenium-000?style=for-the-badge&logo=selenium)
 </div>
 
-## Github Profile Statistics:
-[![Profile Views](https://u8views.com/api/v1/github/profiles/112797676/views/day-week-month-total-count.svg)](https://u8views.com/github/DhruvAthaide)
 
 ## My Github Stats:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvAthaide&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Dhruv's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvAthaide&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="http://www.github.com/DhruvAthaide"><img src="https://github-readme-stats.vercel.app/api?username=DhruvAthaide&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=14b8a6&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="DhruvAthaide's GitHub stats" /></a> | <a href="https://github.com/DhruvAthaide" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvAthaide&langs_count=4&title_color=3382ed&text_color=14b8a6&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
 | ------------- | ------------- |
