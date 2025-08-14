@@ -1,5 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dhruv Athaide
-======================================================================================================================================
 ![Header](https://github.com/DhruvAthaide/DhruvAthaide/blob/f15e699c5446ee12903569565c9a1c9781744e2c/GithubHeader.png)
 
 <br>
