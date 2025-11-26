@@ -31,5 +31,6 @@
 
 
 ## My Github Stats:
-| <a href="http://www.github.com/DhruvAthaide"><img src="https://github-readme-stats.vercel.app/api?username=DhruvAthaide&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=14b8a6&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="DhruvAthaide's GitHub stats" /></a> | <a href="https://github.com/DhruvAthaide" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvAthaide&langs_count=4&title_color=3382ed&text_color=14b8a6&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
+| ![DhruvAthaide's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=DhruvAthaide&theme=dark&chart=bars) | ![DhruvAthaide's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=DhruvAthaide&type=languages&theme=dark&chart=pie) |
 | ------------- | ------------- |
+| ![DhruvAthaide's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=DhruvAthaide&type=contributions&theme=dark) | ![DhruvAthaide's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=DhruvAthaide&type=top-repos&theme=dark) |
