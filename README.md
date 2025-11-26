@@ -1,4 +1,4 @@
-![Header](https://github.com/DhruvAthaide/DhruvAthaide/blob/f15e699c5446ee12903569565c9a1c9781744e2c/GithubHeader.png)
+![Header](https://github.com/DhruvAthaide/DhruvAthaide/blob/0db1f57783701e058c34ce5f1343488abb6b46b0/GithubHeader.png)
 
 <br>
 
